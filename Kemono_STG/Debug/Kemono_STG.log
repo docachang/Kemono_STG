@@ -1,3 +1,4 @@
-﻿  main.cpp
-  Kemono_STG.vcxproj -> C:\Users\kmn\Desktop\Kemono_STG\Kemono_STG\Debug\Kemono_STG.exe
-  Kemono_STG.vcxproj -> C:\Users\kmn\Desktop\Kemono_STG\Kemono_STG\Debug\Kemono_STG.pdb (Full PDB)
+﻿  Object.cpp
+c:\users\kmn\desktop\kemono_stg\kemono_stg\object.cpp(14): error C2065: 'objecty': 定義されていない識別子です。
+c:\users\kmn\desktop\kemono_stg\kemono_stg\object.cpp(21): error C2065: 'objecty': 定義されていない識別子です。
+c:\users\kmn\desktop\kemono_stg\kemono_stg\object.cpp(31): error C2065: 'objecty': 定義されていない識別子です。
