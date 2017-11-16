@@ -152,13 +152,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Enamy.cpp" />
     <ClCompile Include="GameManager.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Object.cpp" />
+    <ClCompile Include="Prayer.cpp" />
+    <ClCompile Include="TitleDisplay.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Enamy.h" />
     <ClInclude Include="GameManager.h" />
     <ClInclude Include="Object.h" />
+    <ClInclude Include="Prayer.h" />
+    <ClInclude Include="TitleDisplay.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
